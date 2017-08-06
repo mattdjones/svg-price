@@ -1,0 +1,9 @@
+D:\Dropbox\Team\Projects\zapp\priceSvg\bin\priceSvg.dll
+D:\Dropbox\Team\Projects\zapp\priceSvg\bin\priceSvg.pdb
+D:\Dropbox\Team\Projects\zapp\priceSvg\bin\SharpVectors.Dom.dll
+D:\Dropbox\Team\Projects\zapp\priceSvg\bin\SVGLib.dll
+D:\Dropbox\Team\Projects\zapp\priceSvg\bin\SVGLib.pdb
+D:\Dropbox\Team\Projects\zapp\priceSvg\bin\SharpVectors.Dom.pdb
+D:\Dropbox\Team\Projects\zapp\priceSvg\obj\Release\ResolveAssemblyReference.cache
+D:\Dropbox\Team\Projects\zapp\priceSvg\obj\Release\priceSvg.dll
+D:\Dropbox\Team\Projects\zapp\priceSvg\obj\Release\priceSvg.pdb

@@ -1,0 +1,51 @@
+﻿body 
+{
+    font-family: Calibri, Verdana, Arial;
+}
+
+.formBold{ text-align: left; font-weight: bold; font-size: 1em; color: #808080;}
+
+.FormTitleBold{ font-weight: bold; font-size: .8em; color: #000;}
+
+.formInfo{ color: #808080; }
+
+.formBlue{ color: #81A9A9; }
+
+.formSmallBold{ font-weight: bold; font-size: .7em;}
+
+.formSmallWhite{ font-weight: bold; font-size: .8em; color: #ffffff; margin-left: 25px;}
+
+.formMedWhite{ font-weight: bold; font-size: .8.5em; color: #ffffff;}
+
+.boxMargin{ margin-left: 25px; margin-top: 5px; }
+
+.cursorHand{ cursor: pointer;}
+
+.imgHide{ visibility: hidden; }
+.imgShow{ visibility: visible; }
+
+#centre { display: block; width: 50%; margin: 0 auto;}
+
+.boxContainer{ width: 324px; float: left;} 
+.boxTop{ background-image: url(../img/blue_top.gif); width: 324px; height: 55px; margin-bottom: 0;}
+
+.boxBottom{ background-image: url(../img/blue_bottom.gif); width: 324px; height: 14px;}
+
+.boxMiddle { background: #8EA4B9; width: 320px; margin: 0 0 0 2px;}  
+
+
+.errorBox { width: 400px; float: right;}
+
+.blueList{ border-color: #E8E8E8; border-style: solid;}
+
+option { background-color: #FCFCFC; color: black; }
+option:hover { background-color: #8EA4B9; color: white; }
+select { background-color: #FCFCFC; color: black; }
+
+.pageIntro{ font-weight: bold;}
+
+a{color: #8EA4B9;}
+a.altLink{color: #5A5859;}    
+hr{color: #B6B6B6;} 
+
+.blackbutton{ background: #000; color: White; font-weight: bold; border: 2px solid black;
